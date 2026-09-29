@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/cute_ass_banner.png" alt="C Learning Journey" width="100%">
+</p>
+
+<p align="center">
+  <i>A little journey through C — one concept at a time. 🌱</i>
+</p>
+
+---
 # 🌱 C Programming Journey
 
 Welcome! 👋
